@@ -1,1 +1,3 @@
-REEE
+shoot with mouse
+make it multiplayer / option to play offline
+add graphics
